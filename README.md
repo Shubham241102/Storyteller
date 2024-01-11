@@ -1,4 +1,4 @@
-# theming-showcase-blue
+# Storyteller 
 
 
 This is an example app showcasing how to use themes in [Streamlit](https://streamlit.io/). 
