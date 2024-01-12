@@ -8,6 +8,7 @@ import pprint
 import requests
 import streamlit as st
 import os
+from dotenv import load_dotenv
 load_dotenv()
 os.get_env("GEMINI_API")
 genai.configure(api_key=os.get_env("GEMINI_API"))
